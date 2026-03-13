@@ -26,23 +26,6 @@ Structured JSON data for the 98th Academy Awards ceremony.
 }
 ```
 
-## Usage
-
-Fetch the raw JSON directly:
-
-```
-https://raw.githubusercontent.com/amyerz/oscars-2026-data/main/oscars-2026.json
-```
-
-Or use with the [award-carousel](https://github.com/amyerz/award-plugins) widget:
-
-```html
-<div class="award-carousel"
-     data-src="https://raw.githubusercontent.com/amyerz/oscars-2026-data/main/oscars-2026.json"
-     data-poll="60">
-</div>
-```
-
 ## License
 
 This data is provided for informational purposes. Nominee and category information is sourced from publicly available Academy Awards announcements.
