@@ -106,7 +106,7 @@
       "nominees": [
         { "id": "animated-feature-film--arco", "title": "Arco", "people": [], "image": "", "winner": false },
         { "id": "animated-feature-film--elio", "title": "Elio", "people": [], "image": "", "winner": false },
-        { "id": "animated-feature-film--kpop", "title": "KPop Demon Hunters", "people": [], "image": "", "winner": false },
+        { "id": "animated-feature-film--kpop", "title": "KPop Demon Hunters", "people": [], "image": "", "winner": true },
         { "id": "animated-feature-film--little-amelie", "title": "Little Amélie or the Character of Rain", "people": [], "image": "", "winner": false },
         { "id": "animated-feature-film--zootopia2", "title": "Zootopia 2", "people": [], "image": "", "winner": false }
       ]
