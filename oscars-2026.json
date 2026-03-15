@@ -51,7 +51,7 @@
       "nominees": [
         { "id": "actress-supporting-role--fanning", "title": "Sentimental Value", "people": ["Elle Fanning"], "image": "", "winner": false },
         { "id": "actress-supporting-role--lilieaas", "title": "Sentimental Value", "people": ["Inga Ibsdotter Lilieaas"], "image": "", "winner": false },
-        { "id": "actress-supporting-role--madigan", "title": "Weapons", "people": ["Amy Madigan"], "image": "", "winner": false },
+        { "id": "actress-supporting-role--madigan", "title": "Weapons", "people": ["Amy Madigan"], "image": "", "winner": true },
         { "id": "actress-supporting-role--mosaku", "title": "Sinners", "people": ["Wunmi Mosaku"], "image": "", "winner": false },
         { "id": "actress-supporting-role--taylor", "title": "One Battle After Another", "people": ["Teyana Taylor"], "image": "", "winner": false }
       ]
