@@ -225,7 +225,7 @@
       "id": "makeup-hairstyling",
       "name": "Makeup and Hairstyling",
       "nominees": [
-        { "id": "makeup-hairstyling--frankenstein", "title": "Frankenstein", "people": [], "image": "", "winner": false },
+        { "id": "makeup-hairstyling--frankenstein", "title": "Frankenstein", "people": [], "image": "", "winner": true },
         { "id": "makeup-hairstyling--kokuho", "title": "Kokuho", "people": [], "image": "", "winner": false },
         { "id": "makeup-hairstyling--sinners", "title": "Sinners", "people": [], "image": "", "winner": false },
         { "id": "makeup-hairstyling--smashing-machine", "title": "The Smashing Machine", "people": [], "image": "", "winner": false },
