@@ -260,7 +260,7 @@
       "nominees": [
         { "id": "short-film-animated--butterfly", "title": "Butterfly", "people": [], "image": "", "winner": false },
         { "id": "short-film-animated--forevergreen", "title": "Forevergreen", "people": [], "image": "", "winner": false },
-        { "id": "short-film-animated--girl", "title": "The Girl Who Cried Pearls", "people": [], "image": "", "winner": false },
+        { "id": "short-film-animated--girl", "title": "The Girl Who Cried Pearls", "people": [], "image": "", "winner": true },
         { "id": "short-film-animated--retirement", "title": "Retirement Plan", "people": [], "image": "", "winner": false },
         { "id": "short-film-animated--three-sisters", "title": "The Three Sisters", "people": [], "image": "", "winner": false }
       ]
