@@ -237,7 +237,7 @@
       "name": "Costume Design",
       "nominees": [
         { "id": "costume-design--avatar", "title": "Avatar: Fire and Ash", "people": [], "image": "", "winner": false },
-        { "id": "costume-design--frankenstein", "title": "Frankenstein", "people": [], "image": "", "winner": false },
+        { "id": "costume-design--frankenstein", "title": "Frankenstein", "people": [], "image": "", "winner": true },
         { "id": "costume-design--hamnet", "title": "Hamnet", "people": [], "image": "", "winner": false },
         { "id": "costume-design--marty", "title": "Marty Supreme", "people": [], "image": "", "winner": false },
         { "id": "costume-design--sinners", "title": "Sinners", "people": [], "image": "", "winner": false }
