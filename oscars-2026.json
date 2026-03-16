@@ -269,7 +269,7 @@
       "id": "documentary-short",
       "name": "Documentary Short Film",
       "nominees": [
-        { "id": "documentary-short--empty-rooms", "title": "All the Empty Rooms", "people": [], "image": "", "winner": false },
+        { "id": "documentary-short--empty-rooms", "title": "All the Empty Rooms", "people": [], "image": "", "winner": true },
         { "id": "documentary-short--brent-renaud", "title": "Armed Only with a Camera: The Life and Death of Brent Renaud", "people": [], "image": "", "winner": false },
         { "id": "documentary-short--children", "title": "Children No More: Were and Are Gone", "people": [], "image": "", "winner": false },
         { "id": "documentary-short--devil", "title": "The Devil Is Busy", "people": [], "image": "", "winner": false },
