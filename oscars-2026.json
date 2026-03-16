@@ -203,7 +203,7 @@
       "id": "production-design",
       "name": "Production Design",
       "nominees": [
-        { "id": "production-design--frankenstein", "title": "Frankenstein", "people": [], "image": "", "winner": false },
+        { "id": "production-design--frankenstein", "title": "Frankenstein", "people": [], "image": "", "winner": true },
         { "id": "production-design--hamnet", "title": "Hamnet", "people": [], "image": "", "winner": false },
         { "id": "production-design--marty", "title": "Marty Supreme", "people": [], "image": "", "winner": false },
         { "id": "production-design--one-battle", "title": "One Battle After Another", "people": [], "image": "", "winner": false },
