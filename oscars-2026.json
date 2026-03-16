@@ -61,7 +61,7 @@
       "name": "Actor in a Supporting Role",
       "nominees": [
         { "id": "actor-supporting-role--elordi", "title": "Frankenstein", "people": ["Jacob Elordi"], "image": "", "winner": false },
-        { "id": "actor-supporting-role--penn", "title": "One Battle After Another", "people": ["Sean Penn"], "image": "", "winner": false },
+        { "id": "actor-supporting-role--penn", "title": "One Battle After Another", "people": ["Sean Penn"], "image": "", "winner": true },
         { "id": "actor-supporting-role--skarsgard", "title": "Sentimental Value", "people": ["Stellan Skarsgård"], "image": "", "winner": false },
         { "id": "actor-supporting-role--del-toro", "title": "One Battle After Another", "people": ["Benicio del Toro"], "image": "", "winner": false },
         { "id": "actor-supporting-role--lindo", "title": "Sinners", "people": ["Delroy Lindo"], "image": "", "winner": false }
