@@ -148,7 +148,7 @@
       "id": "sound",
       "name": "Sound",
       "nominees": [
-        { "id": "sound--f1", "title": "F1", "people": [], "image": "", "winner": false },
+        { "id": "sound--f1", "title": "F1", "people": [], "image": "", "winner": true },
         { "id": "sound--frankenstein", "title": "Frankenstein", "people": [], "image": "", "winner": false },
         { "id": "sound--one-battle", "title": "One Battle After Another", "people": [], "image": "", "winner": false },
         { "id": "sound--sinners", "title": "Sinners", "people": [], "image": "", "winner": false },
