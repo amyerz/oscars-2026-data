@@ -174,7 +174,7 @@
         { "id": "original-score--frankenstein", "title": "Frankenstein", "people": ["Alexandre Desplat"], "image": "", "winner": false },
         { "id": "original-score--hamnet", "title": "Hamnet", "people": ["Max Richter"], "image": "", "winner": false },
         { "id": "original-score--one-battle", "title": "One Battle After Another", "people": ["Jonny Greenwood"], "image": "", "winner": false },
-        { "id": "original-score--sinners", "title": "Sinners", "people": ["Ludwig Göransson"], "image": "", "winner": false }
+        { "id": "original-score--sinners", "title": "Sinners", "people": ["Ludwig Göransson"], "image": "", "winner": true }
       ]
     },
     {
