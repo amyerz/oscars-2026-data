@@ -86,7 +86,7 @@
         { "id": "original-screenplay--accident", "title": "It Was Just an Accident", "people": ["Jafar Panahi"], "image": "", "winner": false },
         { "id": "original-screenplay--marty", "title": "Marty Supreme", "people": ["Ronald Bronstein", "Josh Safdie"], "image": "", "winner": false },
         { "id": "original-screenplay--sentimental", "title": "Sentimental Value", "people": ["Eskil Vogt", "Joachim Trier"], "image": "", "winner": false },
-        { "id": "original-screenplay--sinners", "title": "Sinners", "people": ["Ryan Coogler"], "image": "", "winner": false }
+        { "id": "original-screenplay--sinners", "title": "Sinners", "people": ["Ryan Coogler"], "image": "", "winner": true }
       ]
     },
     {
