@@ -27,7 +27,7 @@
       "id": "actress-leading-role",
       "name": "Actress in a Leading Role",
       "nominees": [
-        { "id": "actress-leading-role--buckley", "title": "Hamnet", "people": ["Jessie Buckley"], "image": "", "winner": false },
+        { "id": "actress-leading-role--buckley", "title": "Hamnet", "people": ["Jessie Buckley"], "image": "", "winner": true },
         { "id": "actress-leading-role--byrne", "title": "If I Had Legs I'd Kick You", "people": ["Rose Byrne"], "image": "", "winner": false },
         { "id": "actress-leading-role--reinsve", "title": "Sentimental Value", "people": ["Renate Reinsve"], "image": "", "winner": false },
         { "id": "actress-leading-role--stone", "title": "Bugonia", "people": ["Emma Stone"], "image": "", "winner": false },
