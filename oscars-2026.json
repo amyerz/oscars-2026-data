@@ -71,7 +71,7 @@
       "id": "directing",
       "name": "Directing",
       "nominees": [
-        { "id": "directing--anderson", "title": "One Battle After Another", "people": ["Paul Thomas Anderson"], "image": "", "winner": false },
+        { "id": "directing--anderson", "title": "One Battle After Another", "people": ["Paul Thomas Anderson"], "image": "", "winner": true },
         { "id": "directing--coogler", "title": "Sinners", "people": ["Ryan Coogler"], "image": "", "winner": false },
         { "id": "directing--zhao", "title": "Hamnet", "people": ["Chloé Zhao"], "image": "", "winner": false },
         { "id": "directing--safdie", "title": "Marty Supreme", "people": ["Josh Safdie"], "image": "", "winner": false },
@@ -117,7 +117,7 @@
       "nominees": [
         { "id": "international-feature-film--secret-agent", "title": "The Secret Agent", "people": [], "image": "", "winner": false, "country": "Brazil" },
         { "id": "international-feature-film--accident", "title": "It Was Just an Accident", "people": [], "image": "", "winner": false, "country": "France" },
-        { "id": "international-feature-film--sentimental", "title": "Sentimental Value", "people": [], "image": "", "winner": false, "country": "Norway" },
+        { "id": "international-feature-film--sentimental", "title": "Sentimental Value", "people": [], "image": "", "winner": true, "country": "Norway" },
         { "id": "international-feature-film--sirat", "title": "Sirât", "people": [], "image": "", "winner": false, "country": "Spain" },
         { "id": "international-feature-film--hind-rajab", "title": "The Voice of Hind Rajab", "people": [], "image": "", "winner": false, "country": "Tunisia" }
       ]
@@ -181,7 +181,7 @@
       "id": "original-song",
       "name": "Music (Original Song)",
       "nominees": [
-        { "id": "original-song--golden", "title": "Kpop Demon Hunters", "people": [], "image": "", "winner": false, "song": "Golden" },
+        { "id": "original-song--golden", "title": "Kpop Demon Hunters", "people": [], "image": "", "winner": true, "song": "Golden" },
         { "id": "original-song--train-dreams", "title": "Train Dreams", "people": [], "image": "", "winner": false, "song": "Train Dreams" },
         { "id": "original-song--dear-me", "title": "Diane Warren: Relentless", "people": [], "image": "", "winner": false, "song": "Dear Me" },
         { "id": "original-song--i-lied", "title": "Sinners", "people": [], "image": "", "winner": false, "song": "I Lied To You" },
@@ -216,7 +216,7 @@
       "nominees": [
         { "id": "film-editing--f1", "title": "F1", "people": [], "image": "", "winner": false },
         { "id": "film-editing--marty", "title": "Marty Supreme", "people": [], "image": "", "winner": false },
-        { "id": "film-editing--one-battle", "title": "One Battle After Another", "people": [], "image": "", "winner": false },
+        { "id": "film-editing--one-battle", "title": "One Battle After Another", "people": [], "image": "", "winner": true },
         { "id": "film-editing--sentimental", "title": "Sentimental Value", "people": [], "image": "", "winner": false },
         { "id": "film-editing--sinners", "title": "Sinners", "people": [], "image": "", "winner": false }
       ]
