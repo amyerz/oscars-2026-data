@@ -139,7 +139,7 @@
       "nominees": [
         { "id": "casting--hamnet", "title": "Hamnet", "people": [], "image": "", "winner": false },
         { "id": "casting--marty", "title": "Marty Supreme", "people": [], "image": "", "winner": false },
-        { "id": "casting--one-battle", "title": "One Battle After Another", "people": [], "image": "", "winner": false },
+        { "id": "casting--one-battle", "title": "One Battle After Another", "people": [], "image": "", "winner": true },
         { "id": "casting--secret-agent", "title": "The Secret Agent", "people": [], "image": "", "winner": false },
         { "id": "casting--sinners", "title": "Sinners", "people": [], "image": "", "winner": false }
       ]
