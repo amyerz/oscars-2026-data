@@ -41,7 +41,7 @@
         { "id": "actor-leading-role--chalamet", "title": "Marty Supreme", "people": ["Timothée Chalamet"], "image": "", "winner": false },
         { "id": "actor-leading-role--dicaprio", "title": "One Battle After Another", "people": ["Leonardo DiCaprio"], "image": "", "winner": false },
         { "id": "actor-leading-role--hawke", "title": "Blue Moon", "people": ["Ethan Hawke"], "image": "", "winner": false },
-        { "id": "actor-leading-role--jordan", "title": "Sinners", "people": ["Michael B. Jordan"], "image": "", "winner": false },
+        { "id": "actor-leading-role--jordan", "title": "Sinners", "people": ["Michael B. Jordan"], "image": "", "winner": true },
         { "id": "actor-leading-role--moura", "title": "The Secret Agent", "people": ["Wagner Moura"], "image": "", "winner": false }
       ]
     },
