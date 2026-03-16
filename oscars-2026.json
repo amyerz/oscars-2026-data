@@ -16,7 +16,7 @@
         { "id": "best-picture--frankenstein", "title": "Frankenstein", "people": [], "image": "", "winner": false },
         { "id": "best-picture--hamnet", "title": "Hamnet", "people": [], "image": "", "winner": false },
         { "id": "best-picture--marty-supreme", "title": "Marty Supreme", "people": [], "image": "", "winner": false },
-        { "id": "best-picture--one-battle", "title": "One Battle After Another", "people": [], "image": "", "winner": false },
+        { "id": "best-picture--one-battle", "title": "One Battle After Another", "people": [], "image": "", "winner": true },
         { "id": "best-picture--secret-agent", "title": "The Secret Agent", "people": [], "image": "", "winner": false },
         { "id": "best-picture--sentimental-value", "title": "Sentimental Value", "people": [], "image": "", "winner": false },
         { "id": "best-picture--sinners", "title": "Sinners", "people": [], "image": "", "winner": false },
