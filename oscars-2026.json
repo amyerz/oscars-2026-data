@@ -192,7 +192,7 @@
       "id": "visual-effects",
       "name": "Visual Effects",
       "nominees": [
-        { "id": "visual-effects--avatar", "title": "Avatar: Fire and Ash", "people": [], "image": "", "winner": false },
+        { "id": "visual-effects--avatar", "title": "Avatar: Fire and Ash", "people": [], "image": "", "winner": true },
         { "id": "visual-effects--f1", "title": "F1", "people": [], "image": "", "winner": false },
         { "id": "visual-effects--jurassic", "title": "Jurassic World Rebirth", "people": [], "image": "", "winner": false },
         { "id": "visual-effects--lost-bus", "title": "The Lost Bus", "people": [], "image": "", "winner": false },
