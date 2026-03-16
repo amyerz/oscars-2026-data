@@ -130,7 +130,7 @@
         { "id": "documentary-feature--alabama", "title": "The Alabama Solution", "people": [], "image": "", "winner": false },
         { "id": "documentary-feature--come-see", "title": "Come See Me in the Good Light", "people": [], "image": "", "winner": false },
         { "id": "documentary-feature--cutting", "title": "Cutting Through Rocks", "people": [], "image": "", "winner": false },
-        { "id": "documentary-feature--nobody", "title": "Mr. Nobody Against Putin", "people": [], "image": "", "winner": false }
+        { "id": "documentary-feature--nobody", "title": "Mr. Nobody Against Putin", "people": [], "image": "", "winner": true }
       ]
     },
     {
