@@ -250,7 +250,7 @@
         { "id": "short-film-live-action--butchers", "title": "Butcher's Stain", "people": [], "image": "", "winner": false },
         { "id": "short-film-live-action--dorothy", "title": "A Friend of Dorothy", "people": [], "image": "", "winner": false },
         { "id": "short-film-live-action--jane", "title": "Jane Austen's Period Drama", "people": [], "image": "", "winner": false },
-        { "id": "short-film-live-action--singers", "title": "The Singers", "people": [], "image": "", "winner": false },
+        { "id": "short-film-live-action--singers", "title": "The Singers", "people": [], "image": "", "winner": true },
         { "id": "short-film-live-action--two-people", "title": "Two People Exchanging Saliva", "people": [], "image": "", "winner": false }
       ]
     },
