@@ -96,7 +96,7 @@
         { "id": "adapted-screenplay--bugonia", "title": "Bugonia", "people": ["Will Tracy"], "image": "", "winner": false },
         { "id": "adapted-screenplay--frankenstein", "title": "Frankenstein", "people": ["Guillermo del Toro"], "image": "", "winner": false },
         { "id": "adapted-screenplay--hamnet", "title": "Hamnet", "people": ["Chloé Zhao", "Maggie O'Farrell"], "image": "", "winner": false },
-        { "id": "adapted-screenplay--one-battle", "title": "One Battle After Another", "people": ["Paul Thomas Anderson"], "image": "", "winner": false },
+        { "id": "adapted-screenplay--one-battle", "title": "One Battle After Another", "people": ["Paul Thomas Anderson"], "image": "", "winner": true },
         { "id": "adapted-screenplay--train-dreams", "title": "Train Dreams", "people": ["Clint Bailey", "Greg Kwedar"], "image": "", "winner": false }
       ]
     },
